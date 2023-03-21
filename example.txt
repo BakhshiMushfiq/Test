@@ -1,2 +1,6 @@
 Hello Good morning
 The fact that you will leave
+Class Git : 
+	public static void main (String [] args ){
+ 	System.out.println("learning Git");
+}
