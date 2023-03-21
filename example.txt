@@ -4,3 +4,6 @@ Class Git :
 	public static void main (String [] args ){
  	System.out.println("learning Git");
 }
+public void display (){
+System.out.println("Hello"+display));
+{
